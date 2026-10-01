@@ -2,10 +2,11 @@
 title: "Site para médicos e dentistas: o que o CFM e o CFO permitem"
 description: "As regras de publicidade do CFM e do CFO aplicadas a um site de consultório, com quatro modelos prontos: dermatologia, cardiologia, pediatria e odontologia."
 pubDate: 2026-09-30
+updatedDate: 2026-10-01
 tags: ["saúde", "sites", "publicidade médica", "LGPD"]
 author: "Attodev"
-cover: "https://assets.attodev.com.br/blog/2026-09-30-site-para-medicos-e-dentistas/capa-1600.webp"
-coverAlt: "Os quatro modelos de site lado a lado: dermatologia, cardiologia, pediatria e odontologia"
+cover: "https://assets.attodev.com.br/blog/2026-09-30-site-para-medicos-e-dentistas/capa-v2-1600.webp"
+coverAlt: "Os quatro modelos de site lado a lado, cada um com uma lente no topo: dermatologia, cardiologia, pediatria e odontologia"
 ---
 
 Antes de marcar uma consulta, o paciente pesquisa. Procura o nome do médico, confere o endereço, quer saber se o convênio é aceito. Muitas vezes encontra só um perfil antigo numa rede social, ou nada.
@@ -25,7 +26,7 @@ Para médicos, a Resolução CFM nº 2.336/2023 pede que o anúncio traga o nome
 
 Para dentistas, o Código de Ética Odontológica exige o nome, o número de inscrição no conselho e o nome da profissão por extenso: cirurgião-dentista. Especialidade só pode ser anunciada se estiver registrada no CRO. Quem não é especialista pode se apresentar como clínico geral.
 
-Nos modelos, esse bloco de identificação vira um carimbo que aparece no topo da página e se repete no rodapé.
+Nos modelos, esse bloco de identificação aparece logo no topo da página, junto dos botões de contato, e se repete no fim, num carimbo, e no rodapé.
 
 ## Preço: pode para médico, não pode para dentista
 
@@ -65,24 +66,26 @@ O site não tem formulário, pixel de anúncio nem cookie de publicidade. A pol�
 ## Os quatro modelos
 
 <figure>
-  <img src="https://modelos.attodev.com.br/og.jpg" alt="Topo do modelo de dermatologia, com o título Olhar de perto, cuidar sem pressa" width="1200" height="630" loading="lazy" decoding="async" />
+  <img src="https://modelos.attodev.com.br/og.jpg" alt="Topo do modelo de dermatologia: o título Olhar de perto, cuidar sem pressa, e uma lente que mostra a pele como no dermatoscópio" width="1200" height="630" loading="lazy" decoding="async" />
   <figcaption>Dermatologia: Dra. Helena Vettorello, em Passo Fundo/RS, com a regra do ABCDE sob uma lente de dermatoscopia. <a href="https://modelos.attodev.com.br/">Ver o modelo</a>.</figcaption>
 </figure>
 
 <figure>
-  <img src="https://modelos.attodev.com.br/og-cardiologia.jpg" alt="Topo do modelo de cardiologia, com o título Ouvir com calma, cuidar do ritmo" width="1200" height="630" loading="lazy" decoding="async" />
+  <img src="https://modelos.attodev.com.br/og-cardiologia.jpg" alt="Topo do modelo de cardiologia: o título Ouvir com calma, cuidar do ritmo, e uma lente que mostra o coração sob o estetoscópio" width="1200" height="630" loading="lazy" decoding="async" />
   <figcaption>Cardiologia: Dr. Otávio Bernardini, em Itapetininga/SP, com as faixas de pressão num manômetro. <a href="https://modelos.attodev.com.br/cardiologia">Ver o modelo</a>.</figcaption>
 </figure>
 
 <figure>
-  <img src="https://modelos.attodev.com.br/og-pediatria.jpg" alt="Topo do modelo de pediatria, com o título Crescer leva tempo, cuidar também" width="1200" height="630" loading="lazy" decoding="async" />
+  <img src="https://modelos.attodev.com.br/og-pediatria.jpg" alt="Topo do modelo de pediatria: o título Crescer leva tempo, cuidar também, e uma lente que desenha a curva de crescimento na régua" width="1200" height="630" loading="lazy" decoding="async" />
   <figcaption>Pediatria: Dra. Lívia Zanotto, em Bento Gonçalves/RS, com o calendário de consultas e uma régua de crescimento. <a href="https://modelos.attodev.com.br/pediatria">Ver o modelo</a>.</figcaption>
 </figure>
 
 <figure>
-  <img src="https://modelos.attodev.com.br/og-odontologia.jpg" alt="Topo do modelo de odontologia, com o título Explicar antes, cuidar a tempo" width="1200" height="630" loading="lazy" decoding="async" />
+  <img src="https://modelos.attodev.com.br/og-odontologia.jpg" alt="Topo do modelo de odontologia: o título Explicar antes, cuidar a tempo, e uma lente que mostra a radiografia dos dentes" width="1200" height="630" loading="lazy" decoding="async" />
   <figcaption>Odontologia: Dr. André Castellani, em Botucatu/SP, com a cárie do esmalte à polpa num dente em corte. <a href="https://modelos.attodev.com.br/odontologia">Ver o modelo</a>.</figcaption>
 </figure>
+
+O topo de cada modelo tem quatro estilos para escolher. O padrão é uma lente que acompanha o cursor e mostra o que o especialista vê: a pele no dermatoscópio, o coração sob o estetoscópio, a curva de crescimento na régua, a radiografia por trás do sorriso. No celular, ela passeia sozinha e vai para onde você toca. Os outros três são o papel timbrado do consultório, com o carimbo do conselho; um pôster tipográfico no estilo lambe-lambe; e uma agenda que mostra, no horário de Brasília, se o consultório está aberto agora e quando abre de novo. Dá para alternar entre eles em "Modelos e estilos", na faixa do alto de cada modelo.
 
 Nomes, registros e fotos são fictícios. As imagens foram geradas com IA para a demonstração; no site de um cliente, entram fotos reais do profissional e do consultório.
 
